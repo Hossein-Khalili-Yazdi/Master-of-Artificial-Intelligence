@@ -75,8 +75,6 @@ Each model is evaluated on test split data (80/20 train-test ratio) using the fo
 Ensure you have Python 3.8+ installed. Clone this repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
