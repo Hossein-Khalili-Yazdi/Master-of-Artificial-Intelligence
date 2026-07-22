@@ -40,7 +40,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone the main repository:
 
 ```Bash
-git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)](https://github.com/Hossein-Khalili-Yazdi/Master-of-Artificial-Intelligence/tree/main/machine-learning)
+git clone https://github.com/Hossein-Khalili-Yazdi/Master-of-Artificial-Intelligence/tree/main/machine-learning
 ```
 2. Navigate to the machine-learning directory:
 
