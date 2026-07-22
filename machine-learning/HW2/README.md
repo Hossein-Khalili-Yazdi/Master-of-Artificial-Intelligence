@@ -23,29 +23,29 @@ To run this notebook, ensure you have Python 3.8+ installed along with the follo
 ```bash
 pip install scikit-learn pandas numpy matplotlib seaborn graphviz
 ```
-Core Libraries:
--Pandas & NumPy: Data manipulation, cleaning, and matrix operations.
--Matplotlib & Seaborn: Data visualization and Exploratory Data Analysis (EDA).
--Scikit-Learn: Data preprocessing, Decision Tree modeling, evaluation metrics (Confusion Matrix, ROC-AUC), and hyperparameter tuning (GridSearchCV).
+**Core Libraries:**
+ - Pandas & NumPy: Data manipulation, cleaning, and matrix operations.
+ - Matplotlib & Seaborn: Data visualization and Exploratory Data Analysis (EDA).
+ - Scikit-Learn: Data preprocessing, Decision Tree modeling, evaluation metrics (Confusion Matrix, ROC-AUC), and hyperparameter tuning (GridSearchCV).
 
 ## 🚀 Project Workflow
-1.Exploratory Data Analysis (EDA):
--Inspecting dataset structure (shape, info, describe).
--Analyzing target class balance (M vs. B).
--Checking for missing/null values.
-2.Data Preprocessing:
--Dropping unnecessary columns (e.g., Unnamed: 32 and id).
--Renaming the target column diagnosis to target.
-3.Modeling & Evaluation:
--Training a DecisionTreeClassifier.
--Evaluating performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
--Visualizing the Decision Tree diagram and Confusion Matrix.
+1. Exploratory Data Analysis (EDA):
+ - Inspecting dataset structure (shape, info, describe).
+ - Analyzing target class balance (M vs. B).
+ - Checking for missing/null values.
+2. Data Preprocessing:
+ - Dropping unnecessary columns (e.g., Unnamed: 32 and id).
+ - Renaming the target column diagnosis to target.
+3. Modeling & Evaluation:
+ - Training a DecisionTreeClassifier.
+ - Evaluating performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+ - Visualizing the Decision Tree diagram and Confusion Matrix.
 
-💻 How to Run
-1.Place the data.csv file in the same directory as the Jupyter notebook.
-2.Launch the notebook and execute the cells sequentially:
+## 💻 How to Run
+ 1. Place the data.csv file in the same directory as the Jupyter notebook.
+ 2. Launch the notebook and execute the cells sequentially:
 ```bash
 jupyter notebook
 ```
-📄 License
+## 📄 License
 This project is open-source and available for educational and research purposes.
