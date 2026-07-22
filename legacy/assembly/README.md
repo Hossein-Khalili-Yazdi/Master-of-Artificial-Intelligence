@@ -46,7 +46,7 @@ tlink store_sales.obj
 # 4. Run the executable
 store_sales.exe
 ```
-🖥️ Menu Interface
+## 🖥️ Menu Interface
 ```text
 1. daryaft kod kala va rooz va mizane froush
 2. daryaft kod kala va rooz va namaesh froush
@@ -57,5 +57,5 @@ store_sales.exe
 
 Please Choose your Number:
 ```
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
