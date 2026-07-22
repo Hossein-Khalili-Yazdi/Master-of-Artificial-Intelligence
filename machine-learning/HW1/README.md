@@ -23,18 +23,18 @@ The standard formula used for Min-Max Scaling is:
 $$X_{\text{scaled}} = \frac{X - \text{old}_\text{min}}{\text{old}_\text{max} - \text{old}_\text{min}} \times (\text{new}_\text{max} - \text{new}_\text{min}) + \text{new}_\text{min}$$
 
 ---
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 - Python 3.x installed on your machine.
 
 Running the Script
 1. Clone or Download the repository
 
-2.Run the Python script:
+2. Run the Python script:
 ```
 python min_max_scaler.py
 ```
-💻 Sample Output
+## 💻 Sample Output
 ```text
 برنامه تبدیل اعداد به روش Min-Max Scaling
 -----------------------------------------
@@ -52,6 +52,6 @@ python min_max_scaler.py
 عدد اصلی: 45.0000     -> عدد تبدیل شده: 0.4500
 ...
 ```
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 ---
