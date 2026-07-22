@@ -24,10 +24,10 @@ $$X_{\text{scaled}} = \frac{X - \text{old}_\text{min}}{\text{old}_\text{max} - \
 
 ---
 ## 🚀 Getting Started
-Prerequisites
+**Prerequisites**
 - Python 3.x installed on your machine.
 
-Running the Script
+**Running the Script**
 1. Clone or Download the repository
 
 2. Run the Python script:
