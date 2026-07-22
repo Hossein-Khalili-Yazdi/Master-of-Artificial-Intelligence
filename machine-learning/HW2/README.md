@@ -30,16 +30,16 @@ pip install scikit-learn pandas numpy matplotlib seaborn graphviz
 
 ## 🚀 Project Workflow
 1. Exploratory Data Analysis (EDA):
- - Inspecting dataset structure (shape, info, describe).
- - Analyzing target class balance (M vs. B).
- - Checking for missing/null values.
+   - Inspecting dataset structure (shape, info, describe).
+   - Analyzing target class balance (M vs. B).
+   - Checking for missing/null values.
 2. Data Preprocessing:
- - Dropping unnecessary columns (e.g., Unnamed: 32 and id).
- - Renaming the target column diagnosis to target.
+   - Dropping unnecessary columns (e.g., Unnamed: 32 and id).
+   - Renaming the target column diagnosis to target.
 3. Modeling & Evaluation:
- - Training a DecisionTreeClassifier.
- - Evaluating performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
- - Visualizing the Decision Tree diagram and Confusion Matrix.
+   - Training a DecisionTreeClassifier.
+   - Evaluating performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+   - Visualizing the Decision Tree diagram and Confusion Matrix.
 
 ## 💻 How to Run
  1. Place the data.csv file in the same directory as the Jupyter notebook.
