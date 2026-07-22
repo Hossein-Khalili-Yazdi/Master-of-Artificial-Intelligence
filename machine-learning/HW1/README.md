@@ -28,11 +28,8 @@ Prerequisites
 - Python 3.x installed on your machine.
 
 Running the Script
-1. Clone or Download the repository:
-```
-git clone https://github.com/Hossein-Khalili-Yazdi/Master-of-Artificial-Intelligence/tree/main/machine-learning
-cd your-repo-name
-```
+1. Clone or Download the repository
+
 2.Run the Python script:
 ```
 python min_max_scaler.py
