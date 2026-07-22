@@ -1,4 +1,4 @@
-## 🔬 Breast Cancer Diagnosis using Decision Tree Classification
+## 🔬 Breast Cancer Diagnosis using Decision Tree Classification (K-Means)
 This project performs exploratory data analysis (EDA) and builds a machine learning pipeline using a Decision Tree Classifier to classify breast cancer tumors as either Benign or Malignant based on clinical feature measurements.  
 ## 📊 Dataset Overview
 The dataset used in this project is the Wisconsin Diagnostic Breast Cancer (WDBC) (`data.csv`), which consists of 569 instances and 32 attributes:  
