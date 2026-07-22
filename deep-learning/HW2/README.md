@@ -30,6 +30,7 @@ Input: [1 0] | Target: 0 | Prediction: 0 | ✓
 Input: [1 1] | Target: 1 | Prediction: 1 | ✓
 ----------------------------------------
 ```
+
 ### 2. OR Gate
 ```text
 --- نتایج پرسپترون برای گیت OR ---
@@ -44,18 +45,17 @@ Input: [1 1] | Target: 1 | Prediction: 1 | ✓
 
 ## 🚀 Getting Started
 **Prerequisites**
+
 Ensure you have Python 3.8+ installed along with the necessary libraries:
 ```Bash
 pip install numpy matplotlib
 ```
 **Running the Notebook / Script**
-Clone the repository and run the Jupyter Notebook or Python script:
-```Bash
-git clone [https://github.com/your-username/perceptron-logic-gates.git](https://github.com/your-username/perceptron-logic-gates.git)
-cd perceptron-logic-gates
-jupyter notebook
-```
+
+Clone the repository and run the Jupyter Notebook or Python script
+
 ---
+
 ## 🛠️ How it Works
 The single-layer perceptron computes the weighted sum of inputs plus a bias term, then applies a step activation function:
 
