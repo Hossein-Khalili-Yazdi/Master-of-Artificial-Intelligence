@@ -58,13 +58,7 @@ pip install numpy matplotlib
 
 **Running the Notebook**
 
-Clone the repository and run the Jupyter Notebook:
-
-```Bash
-git clone https://github.com/your-username/perceptron-4class.git
-cd perceptron-4class
-jupyter notebook perceptron4class.ipynb
-```
+Clone the repository and run the Jupyter Notebook
 
 ---
 
@@ -72,7 +66,8 @@ jupyter notebook perceptron4class.ipynb
 
 Each perceptron computes the weighted sum of inputs plus a bias term, then applies a step activation function:
 
-$$f(x) = \begin{cases} 1 & \text{if } w_1 x_1 + w_2 x_2 + b \ge 0 \\ 0 & \text{otherwise} \end{cases}$$
+$$f(x) = \begin{cases} 1 & \text{if } w_1 x_1 + w_2 x_2 + b \ge 0 \\  
+0 & \text{otherwise}  \end{cases}$$
 
 During training, weights and bias are updated according to the error rule:
 
