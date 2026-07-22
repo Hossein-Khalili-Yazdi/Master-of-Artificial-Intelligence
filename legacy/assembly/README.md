@@ -59,12 +59,3 @@ Please Choose your Number:
 ```
 📜 License
 This project is open-source and available under the MIT License.
----
-## 📂 Repository Structure
-
-```text
-.
-├── store_sales.asm     # Main Assembly source code
-├── io.h                # I/O Macro library (Required for compilation)
-└── README.md           # Project documentation
-
