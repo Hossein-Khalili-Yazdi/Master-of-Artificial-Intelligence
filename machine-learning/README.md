@@ -24,13 +24,13 @@ machine-learning/
    - Focus: Supervised Learning / Binary Classification
    - Description: Implements a Decision Tree classifier on the UCI/scikit-learn Breast Cancer Wisconsin dataset to predict whether a tumor is malignant or benign. Includes model evaluation, feature importance analysis, and performance metrics.
 3. 🔍 Breast Cancer Diagnosis using Decision Tree Classification (K-Means)
-  - Focus: Unsupervised & Supervised Learning Integration
-  - Description: Explores tumor diagnosis by combining K-Means clustering with Decision Tree classification. Analyzes how unsupervised cluster assignments can assist feature representation or pre-labeling before applying supervised classification trees.
+   - Focus: Unsupervised & Supervised Learning Integration
+   - Description: Explores tumor diagnosis by combining K-Means clustering with Decision Tree classification. Analyzes how unsupervised cluster assignments can assist feature representation or pre-labeling before applying supervised classification trees.
 4. 🏆 Multi-Dataset Machine Learning Classifier Benchmark
-  - Focus: Model Comparison & Benchmarking Framework
-  - Description: A comprehensive benchmarking suite comparing multiple classification algorithms across 5 standard datasets (Breast Cancer, Wine, Iris, Digits, Diabetes).
-  - Models Evaluated: K-Nearest Neighbors (KNN), Gaussian Naive Bayes, Decision Tree Classifier.
-  - Features: Automated preprocessing, tie-breaker detection, multi-metric output (Accuracy, Precision, Recall, F1-Score), and console metric visualizers.
+   - Focus: Model Comparison & Benchmarking Framework
+   - Description: A comprehensive benchmarking suite comparing multiple classification algorithms across 5 standard datasets (Breast Cancer, Wine, Iris, Digits, Diabetes).
+   - Models Evaluated: K-Nearest Neighbors (KNN), Gaussian Naive Bayes, Decision Tree Classifier.
+   - Features: Automated preprocessing, tie-breaker detection, multi-metric output (Accuracy, Precision, Recall, F1-Score), and console metric visualizers.
 ## ⚙️ Prerequisites & Dependencies
 To run the notebooks or scripts in these directories, install the necessary dependencies:
 ```
