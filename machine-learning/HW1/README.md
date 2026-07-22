@@ -30,7 +30,7 @@ Prerequisites
 Running the Script
 1. Clone or Download the repository:
 ```
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/Hossein-Khalili-Yazdi/Master-of-Artificial-Intelligence/tree/main/machine-learning
 cd your-repo-name
 ```
 2.Run the Python script:
