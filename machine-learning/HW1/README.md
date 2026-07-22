@@ -58,9 +58,3 @@ python min_max_scaler.py
 📜 License
 This project is licensed under the MIT License.
 ---
-## 📂 File Structure
-
-```text
-.
-├── min_max_scaler.py    # Main Python script
-└── README.md            # Project documentation
