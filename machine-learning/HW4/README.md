@@ -1,4 +1,4 @@
-# 📊 Multi-Dataset Machine Learning Classifier Benchmark 🤖📊
+# 📊 Multi-Dataset Machine Learning Classifier Benchmark 🤖
 
 A Python-based benchmarking framework to evaluate and compare the performance of popular Machine Learning classification algorithms across various standard datasets using `scikit-learn`.
 
