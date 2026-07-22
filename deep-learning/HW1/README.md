@@ -78,11 +78,8 @@ $$b^{(\text{new})} = b^{(\text{old})} + \Delta b$$
 
 ## 🛠 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/hebbian-learning-logic-gates.git](https://github.com/your-username/hebbian-learning-logic-gates.git)
-   cd hebbian-learning-logic-gates
-   ```
+1. **Clone the repository**
+
 2. **Install required dependencies:**
    ```bash
     pip install numpy matplotlib jupyter
