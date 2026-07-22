@@ -12,7 +12,6 @@ This repository contains an implementation of the **Hebbian Learning Rule** appl
   - [OR Gate](#2-or-gate)
 - [Installation & Setup](#-installation--setup)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
 - [License](#-license)
 
 ---
