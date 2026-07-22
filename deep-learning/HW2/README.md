@@ -55,7 +55,7 @@ git clone [https://github.com/your-username/perceptron-logic-gates.git](https://
 cd perceptron-logic-gates
 jupyter notebook
 ```
-
+---
 ## 🛠️ How it Works
 The single-layer perceptron computes the weighted sum of inputs plus a bias term, then applies a step activation function:
 
@@ -71,6 +71,7 @@ Where:
 * $\eta$ is the learning rate.
 * $y$ is the target output.
 * $\hat{y}$ is the predicted output.
+---
 
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
