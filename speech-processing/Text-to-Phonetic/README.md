@@ -50,11 +50,14 @@ rAyAneS-e kiyubit
 Reads the Excel dataset, extracts lexical maps, and builds a comprehensive dictionary database (`master_db`).
 
 `DictLookup(word, att, val_container, database)`
+
 Searches for a specific word and attribute in the database.
+
 ```Python
 val_result = []
 if DictLookup("رایانش", "POS", val_result, master_db):
     print(f"POS: {val_result[0]}")  # Output: N1
 ```
 `spell_out_word(word, alphabet_map)`
+
 Converts unrecognized terms into their spell-out phonetic equivalent using individual mapped letter pronunciations.
