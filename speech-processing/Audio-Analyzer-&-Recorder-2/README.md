@@ -56,7 +56,7 @@ cd audio-analysis-gui
 ```
 2. **Execute the application:**
 ```Bash
-python HW4.py
+python _minamp3.py
 ```
 
 ---
